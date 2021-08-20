@@ -1,0 +1,21 @@
+.background{
+    background-image: url("https://ploughshares.ca/wp-content/uploads/2019/11/blue-universe-956981-1500x844.jpg");
+    background-size: cover;
+    height: 40vh;
+}
+
+@media(max-width: 800px){
+    #disappear{
+        display: none;
+    }
+}
+
+@media(max-width: 800px){
+    #pictureRow{
+        display: none;
+    }
+}
+.img-size{
+    height: 5rem;
+    width: 5rem;
+}
